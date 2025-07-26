@@ -36,7 +36,15 @@ public class Aula03 {
             System.out.println("Reprovado.");
         }
 
-        System.out.println("\n--- Exemplo 4: Switch ---");
+        System.out.println("\n--- Exemplo 4: Switch ---"); // o switch é usado para comparar uma variável com vários valores possíveis
+        // O switch é mais legível quando se tem muitos casos a serem verificados
+        // O switch é mais eficiente que vários if-else aninhados
+        // O switch pode ser usado com tipos primitivos (int, char, byte, short), String e enum
+        // O switch não suporta intervalos de valores, apenas valores exatos
+        // O switch não suporta operadores lógicos, apenas igualdade
+        // O switch pode ter um caso default, que é executado se nenhum caso for correspondido
+        // O switch pode ter múltiplos casos que executam o mesmo bloco de código
+        // O switch pode ser usado com String a partir do Java 7
         String dia = "Segunda";
         switch (dia) {
             case "Segunda":
