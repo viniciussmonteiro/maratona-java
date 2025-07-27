@@ -44,7 +44,7 @@ public class Aula03 {
         // O switch não suporta operadores lógicos, apenas igualdade
         // O switch pode ter um caso default, que é executado se nenhum caso for correspondido
         // O switch pode ter múltiplos casos que executam o mesmo bloco de código
-        // O switch pode ser usado com String a partir do Java 7
+
         String dia = "Segunda";
         switch (dia) {
             case "Segunda":
@@ -70,6 +70,8 @@ public class Aula03 {
                 break;
             default:
                 System.out.println("Dia inválido.");
+
+
         }
 
     }
