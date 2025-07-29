@@ -2,7 +2,8 @@ package aula02;
 
 public class Aula02 {
 
-//    Tipos primitivos, variáveis, operadores e concatenção
+    //  Tipos primitivos, variáveis, operadores e concatenção
+    // Aulas 10 a 19 do curso Maratona Java
 
     public static void main(String[] args) {
 

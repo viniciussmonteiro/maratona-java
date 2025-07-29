@@ -2,7 +2,8 @@ package aula03;
 
 public class Aula03 {
 
-// Estruturas condicionais: If, Else, Else If,Switch
+    // Estruturas condicionais: If, Else, Else If,Switch
+    // Aulas 20 a 26 do curso Maratona Java
 
     public static void main(String[] args) {
 

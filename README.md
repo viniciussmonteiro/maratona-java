@@ -17,7 +17,7 @@ Organizei os arquivos por aula, usando pacotes nomeados por `aulaXX`, com os tó
 | 03   | Tipos Primitivos (parte 2)                            | `src/aula03/`         |
 | 04   | Casting, Valor Default e Literais                     | `src/aula04/`         |
 | 05   | Operadores Aritméticos                                | `src/aula05/`         |
-| 06   | Operadores Relacionais e Lógicos                      | `src/aula06/`         |
+| 06   | Operadores Relacionais e Lógicos                      | `src/poo/`         |
 | 07   | Estruturas Condicionais (if, else, switch)            | `src/aula07/`         |
 | 08   | Estruturas de Repetição (while, for, do-while)        | `src/aula08/`         |
 | 09   | Arrays                                                 | `src/aula09/`         |

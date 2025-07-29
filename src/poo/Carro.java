@@ -1,4 +1,4 @@
-package aula05;
+package poo;
 
 public class Carro {
     private String modelo;

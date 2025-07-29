@@ -2,9 +2,10 @@ package aula04;
 
 public class Aula04 {
 
-    public static void main(String[] args) {
+    // Estruturas de repetição: For, While, Do-While, break, continue
+    // Aulas 27 a 31 do curso Maratona Java
 
-        // Estruturas de repetição: For, While, Do-While
+    public static void main(String[] args) {
 
         System.out.println("--- Estruturas de Repetição ---");
         System.out.println("\n--- Exemplo 1: For ---");
@@ -35,6 +36,23 @@ public class Aula04 {
         // O do-while executa o bloco de código primeiro e depois verifica a condição
         // Se a condição for falsa na primeira iteração, o bloco de código ainda será executado uma vez
         // O do-while é útil quando se quer garantir que o bloco de código seja executado pelo menos uma vez, independentemente da condição
+
+
+        System.out.printf("\n--- Exemplo 4: Break e Continue ---");
+        for (int l = 0; l < 10; l++) {
+            if (l == 5) {
+                System.out.println("Chegou no número 5, saindo do loop com break.");
+                break; // O break interrompe o loop quando a condição é atendida
+            }
+            if (l % 2 == 0) {
+                System.out.println("Número par: " + l);
+                continue; // O continue pula a iteração atual e continua com a próxima
+            }
+            System.out.println("Número ímpar: " + l);
+        }
+        // O continue é usado para pular a iteração atual do loop e continuar com a próxima iteração
+
+
 
     }
 
