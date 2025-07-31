@@ -51,7 +51,7 @@ public class Aula04 {
             System.out.println("Número ímpar: " + l);
         }
         // O continue é usado para pular a iteração atual do loop e continuar com a próxima iteração
-
+        System.out.println("\n--- Fim do exemplo de estruturas de repetição ---");
 
 
     }
