@@ -11,7 +11,7 @@ public class ExercicioAula02 {
          */
 
         // EXERCÍCIO 01:
-        // Crie variáveis para armazenar seu nome, idade, peso, altura e se você está empregado.
+        // Crie variáveis para armazenar nome, idade, peso, altura e se você está empregado.
         // Em seguida, imprima uma apresentação usando concatenação:
         // Exemplo: "Meu nome é Ana, tenho 25 anos, peso 68.5kg, tenho 1.65m de altura e estou empregada: true"
 

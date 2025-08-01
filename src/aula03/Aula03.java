@@ -18,7 +18,7 @@ public class Aula03 {
             System.out.println("Não autorizado a comprar bebida alcólica.");
         }
 
-        System.out.println("\n--- Exemplo 2: If-Else ---");
+        System.out.println("\n--- Exmplo 2: If-Else ---");
         if (maiorDeIdade) {
             System.out.println("Autorizado a comprar bebida alcólica.");
         } else {
