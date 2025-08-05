@@ -64,6 +64,7 @@ public class Aula05 {
             }
             // Arrays multidimensionais são usados para representar tabelas ou grids
             // Acessamos os elementos usando dois índices: linha e coluna
+            // O primeiro índice representa a linha e o segundo índice representa a coluna
 
             System.out.println("\n--- Fim da aula sobre arrays em Java ---");
 
